@@ -1,16 +1,24 @@
+br/com/exercicios/loops/Exercicio8.java
+ br.com.exercicios.loops.Exercicio8
+br/com/exercicios/loops/Exercicio10.java
+ br.com.exercicios.loops.Exercicio10
 br/com/exercicios/loops/Exercicio2.java
  br.com.exercicios.loops.Exercicio2
+br/com/exercicios/loops/Exercicio9.java
+ br.com.exercicios.loops.Exercicio9
+br/com/exercicios/loops/Exercicio5.java
+ br.com.exercicios.loops.Exercicio5
 br/com/exercicios/loops/Exercicio1.java
  br.com.exercicios.loops.Exercicio1
 br/com/exercicios/loops/Exercicio3.java
  br.com.exercicios.loops.Exercicio3
-br/com/exercicios/loops/AulaLoops.java
- br.com.exercicios.loops.AulaLoops
 br/com/exercicios/loops/Exercicio4.java
  br.com.exercicios.loops.Exercicio4
-br/com/exercicios/loops/Exercicio5.java
- br.com.exercicios.loops.Exercicio5
 br/com/exercicios/loops/Exercicio6.java
  br.com.exercicios.loops.Exercicio6
+br/com/exercicios/loops/AulaLoops.java
+ br.com.exercicios.loops.AulaLoops
 br/com/exercicios/loops/Exercicio7.java
  br.com.exercicios.loops.Exercicio7
+br/com/exercicios/loops/Exercicio11.java
+ br.com.exercicios.loops.Exercicio11
