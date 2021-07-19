@@ -22,6 +22,6 @@ public class Exercicio11 {
             soma += i;
         }
 
-        System.out.println("A soma dos numeros é: " +soma);
+        System.out.println("A soma dos numeros de A até B é " +soma);
     }
 }
