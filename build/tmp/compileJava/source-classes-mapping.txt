@@ -50,3 +50,11 @@ br/com/exercicios/vetoresArrays/Exercicio9.java
  br.com.exercicios.vetoresArrays.Exercicio9
 br/com/exercicios/vetoresArrays/Exercicio10.java
  br.com.exercicios.vetoresArrays.Exercicio10
+br/com/exercicios/vetoresArrays/Exercicio11.java
+ br.com.exercicios.vetoresArrays.Exercicio11
+br/com/exercicios/vetoresArrays/Exercicio12.java
+ br.com.exercicios.vetoresArrays.Exercicio12
+br/com/exercicios/vetoresArrays/Exercicio13.java
+ br.com.exercicios.vetoresArrays.Exercicio13
+br/com/exercicios/vetoresArrays/Exercicio14.java
+ br.com.exercicios.vetoresArrays.Exercicio14
