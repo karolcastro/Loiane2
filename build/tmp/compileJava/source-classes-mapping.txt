@@ -1,3 +1,7 @@
+br/com/exercicios/vetoresArrays/Exercicio1.java
+ br.com.exercicios.vetoresArrays.Exercicio1
+br/com/exercicios/loops/Exercicio3.java
+ br.com.exercicios.loops.Exercicio3
 br/com/exercicios/loops/Exercicio12.java
  br.com.exercicios.loops.Exercicio12
 br/com/exercicios/loops/Exercicio9.java
@@ -6,8 +10,8 @@ br/com/exercicios/loops/Exercicio4.java
  br.com.exercicios.loops.Exercicio4
 br/com/exercicios/loops/Exercicio7.java
  br.com.exercicios.loops.Exercicio7
-br/com/exercicios/loops/Exercicio3.java
- br.com.exercicios.loops.Exercicio3
+br/com/exercicios/breakContinue/Exemplo1.java
+ br.com.exercicios.breakContinue.Exemplo1
 br/com/exercicios/loops/Exercicio8.java
  br.com.exercicios.loops.Exercicio8
 br/com/exercicios/loops/Exercicio10.java
@@ -16,6 +20,10 @@ br/com/exercicios/loops/Exercicio13.java
  br.com.exercicios.loops.Exercicio13
 br/com/exercicios/loops/Exercicio2.java
  br.com.exercicios.loops.Exercicio2
+br/com/exercicios/vetoresArrays/Exercicio3.java
+ br.com.exercicios.vetoresArrays.Exercicio3
+br/com/exercicios/vetoresArrays/Exercicio2.java
+ br.com.exercicios.vetoresArrays.Exercicio2
 br/com/exercicios/loops/Exercicio5.java
  br.com.exercicios.loops.Exercicio5
 br/com/exercicios/loops/Exercicio1.java
@@ -28,5 +36,17 @@ br/com/exercicios/loops/Exercicio6.java
  br.com.exercicios.loops.Exercicio6
 br/com/exercicios/loops/AulaLoops.java
  br.com.exercicios.loops.AulaLoops
-br/com/exercicios/breakContinue/Exemplo1.java
- br.com.exercicios.breakContinue.Exemplo1
+br/com/exercicios/vetoresArrays/Exercicio4.java
+ br.com.exercicios.vetoresArrays.Exercicio4
+br/com/exercicios/vetoresArrays/Exercicio5.java
+ br.com.exercicios.vetoresArrays.Exercicio5
+br/com/exercicios/vetoresArrays/Exercicio6.java
+ br.com.exercicios.vetoresArrays.Exercicio6
+br/com/exercicios/vetoresArrays/Exercicio7.java
+ br.com.exercicios.vetoresArrays.Exercicio7
+br/com/exercicios/vetoresArrays/Exercicio8.java
+ br.com.exercicios.vetoresArrays.Exercicio8
+br/com/exercicios/vetoresArrays/Exercicio9.java
+ br.com.exercicios.vetoresArrays.Exercicio9
+br/com/exercicios/vetoresArrays/Exercicio10.java
+ br.com.exercicios.vetoresArrays.Exercicio10
